@@ -9,6 +9,9 @@ Findings show a profitable and resilient system ($57M+ revenue, 50% margin) with
 
 Insight: AgricTech is positioned as a scalable, data-driven platform for improving agricultural productivity and efficiency.
 
+![](https://github.com/Adewale-Adeyemi-Ojomo/AGRIC-GROWTH-DASHBOARD/blob/main/Agric%20Tech-Executive-summary.png)
+
+
 ###Key Insights from the AgricTech Dashboard
 # 1. Significant Revenue Leakage from Post-Harvest Losses
 Post-harvest losses amount to $187,320, highlighting a major inefficiency in storage and logistics.
